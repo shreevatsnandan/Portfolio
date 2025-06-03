@@ -552,16 +552,15 @@ html, body {
   margin-top: 10px;
   border: none;
   border-radius: 5px;
-  background: linear-gradient(45deg, #4caf50, #007bff);
+  background: linear-gradient(45deg, #FFC107, #FF9800);
   color: white;
   font-weight: bold;
   cursor: pointer;
 }
 
 .submit-button:hover {
-  background: linear-gradient(45deg, #4caf50, #0056b3);
+  background: linear-gradient(45deg, #FFC107, #F57C00);
 }
-
 .contact-writeup {
   display: flex;
   
