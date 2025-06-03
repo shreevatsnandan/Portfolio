@@ -25,7 +25,7 @@ export const Navbar = () => {
 
   return (
     <div className='navbar'>
-      <div className='nav-name'>
+      <div className='nav-name' >
       &lt;Shreevats /&gt;
       </div>
       <div className={`nav-buttons ${showNavButtons ? 'show' : ''}`}>

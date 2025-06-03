@@ -35,7 +35,7 @@ const Experience = () => {
   ];
 
   return (
-    <div style={{ fontFamily: "'Poppins', sans-serif" }}>
+    <div style={{ fontFamily: "'Poppins', sans-serif", marginTop: "40px" }}>
          <p className="project-heading">Professional <span style={{color:"#FFC107"}}>Experience</span> </p>
       <VerticalTimeline lineColor="#ddd">
         {experiences.map((exp) => (
@@ -46,7 +46,6 @@ const Experience = () => {
             iconStyle={{    
               color: '#000',
               boxShadow: '0 0 0 4px #ddd, inset 0 2px 0 rgba(0,0,0,.08)',
-             
               zIndex: '5'
             }}
             contentStyle={{

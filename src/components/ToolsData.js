@@ -6,13 +6,13 @@ const ToolsData=[
       },
       {
         duration:1300,
-        img: "/images/vscode-removebg-preview.png",
-        name: "VScode"
+        img: "/images/fz.png",
+        name: "Filezilla"
       },
       {
         duration:1600,
-        img: "/images/vercel-removebg-preview (1).png",
-        name: "Vercel"
+        img: "/images/postman.png",
+        name: "Postman"
       },
       {
         duration:2200,

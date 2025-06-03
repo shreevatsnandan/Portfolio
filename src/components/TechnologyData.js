@@ -68,6 +68,11 @@ const TechnologyData = [
     duration: 2300,
     img: "/images/java-removebg-preview.png",
     name: "Java"
+  },
+  {
+    duration: 2300,
+    img: "/images/ts.png",
+    name: "TypeScript"
   }
 ];
 
