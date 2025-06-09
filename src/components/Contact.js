@@ -21,7 +21,7 @@ export const Contact = () => {
                         <a href="https://www.linkedin.com/in/shreevats-nandan/">LinkedIn</a> |
                         <a href="https://github.com/shreevatsnandan">GitHub</a> |
                         <a href="https://leetcode.com/u/shreevatsnandan/">Leetcode</a> |
-                        <a href="https://drive.google.com/file/d/1u_-xJDu58h__SjDOiF4sQxfaQm3aOZHM/view?usp=sharing">Resume</a>
+                        <a href="https://docs.google.com/document/d/1Q6Q4qmwo4b9W7Lw-LMW4iC-37fRIlB4oYTOOaHD_1cM/edit?usp=sharing">Resume</a>
                  </div> 
             </div>
             <div className="column">

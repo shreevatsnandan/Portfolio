@@ -98,7 +98,7 @@ export const Home = () => {
 
         
         <button
-         onClick={()=>{Click("https://drive.google.com/file/d/1u_-xJDu58h__SjDOiF4sQxfaQm3aOZHM/view?usp=sharing");
+         onClick={()=>{Click("https://docs.google.com/document/d/1Q6Q4qmwo4b9W7Lw-LMW4iC-37fRIlB4oYTOOaHD_1cM/edit?usp=sharing");
           scrollToSection('contact')
           } 
         }
